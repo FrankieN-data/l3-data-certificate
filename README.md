@@ -10,7 +10,8 @@ It’s designed to run smoothly in a reproducible environment using [Binder](htt
 ### 🟢 Launch on Binder
 Click below to run the notebooks interactively in your browser (no installation required):
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FrankieN-data/l3-data-certificate/feature/unit2-question4-data-bias?urlpath=%2Fdoc%2Ftree%2Fnotebooks%2Funit2-question4-data-bias)
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FrankieN-data/l3-data-certificate/feature/unit2-question4-data-bias?labpath=notebooks/unit2-question4-data-bias.ipynb)
+
 
 > Binder will automatically install all required dependencies from `requirements.txt` and set the Python runtime according to `runtime.txt`.
 
